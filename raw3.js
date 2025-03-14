@@ -1,5 +1,2 @@
-//Code practice.
- var totalItem=100;
- var totalSale=63;
- var percentageofSale = (63/100)*100;
- console.log(percentageofSale);
+//branch creation in git
+console.log("git switch -c name master");
